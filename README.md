@@ -12,16 +12,16 @@ To run this project using Python scripts, you will need the following libraries:
 - PyQt5
 
 You can install these libraries with pip:
-'''
+```bash
 pip install pygame pyqt5
-'''
+```
 
 
 ## Project Structure
 
 The project is structured as follows:
 
-'''
+```bash
 project/
 │
 ├── content/
@@ -49,7 +49,7 @@ project/
 │ ├── main.py
 │
 └── README.txt
-'''
+```
 
 
 ## Running the Project
@@ -59,9 +59,9 @@ project/
 
 To run the project locally with Python scripts, execute the `main.py` file:
 
-'''
+```bash
 python game/main.py
-'''
+```
 ## Usage
 
 Start the game and select the difficulty level to begin playing. Use the left click to uncover a tile and the right click to place a flag.
